@@ -21,3 +21,4 @@ console.log("insercion de codigo desde markdawn");
 ``` 
 
 > esto es una cita
+> editado desde el navegador
